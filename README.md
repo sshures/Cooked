@@ -13,4 +13,4 @@ Description
 
 
 ## Created by
-Noeh Johnson, Sydney Shures
+Sydney Shures, Noeh Johnson
