@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: dbb65e1565f58b4478fdc65d17c418e9
+guid: 504922b29bc7e0842b33357a84c70702
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Dizzy Duck_0
+      name: Blood_0
       rect:
         serializedVersion: 2
-        x: 285
-        y: 3261
-        width: 454
-        height: 678
+        x: 0
+        y: 2048
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad35df3d7ba4e954491603714ab31ece
-      internalID: -533320747
+      spriteID: 3743ce57bb3dc914ab1ad77c91639920
+      internalID: -1955751529
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dizzy Duck_1
+      name: Blood_1
       rect:
         serializedVersion: 2
-        x: 1309
-        y: 3261
-        width: 454
-        height: 678
+        x: 1024
+        y: 2048
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,20 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 32f7072aa896d8c4e9f796b9f9d5e957
-      internalID: 529174292
+      spriteID: 29487c5395fd800468324a72f75a5332
+      internalID: -205422942
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dizzy Duck_2
+      name: Blood_2
       rect:
         serializedVersion: 2
-        x: 2333
-        y: 3261
-        width: 454
-        height: 678
+        x: 2048
+        y: 2048
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,20 +166,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b81e5fc931a69744da2fd9f8732cd1d4
-      internalID: -849651718
+      spriteID: 2fa2ec1769cb3a544a35eca7ff808eaf
+      internalID: -987301097
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dizzy Duck_3
+      name: Blood_3
       rect:
         serializedVersion: 2
-        x: 285
-        y: 2237
-        width: 454
-        height: 646
+        x: 0
+        y: 1024
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,20 +187,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d060fc360ff719b44a6029ff22d578e9
-      internalID: -315823345
+      spriteID: dcb5b8124c907a24f946b974aae5b87f
+      internalID: 36770292
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dizzy Duck_4
+      name: Blood_4
       rect:
         serializedVersion: 2
-        x: 1309
-        y: 2237
-        width: 454
-        height: 678
+        x: 1024
+        y: 1024
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -208,20 +208,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 04750be5c14af184197ea94c71ec06f5
-      internalID: -1575008370
+      spriteID: 0ea3312693ca3314e98acbb6a8034dd1
+      internalID: -200477739
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dizzy Duck_5
+      name: Blood_5
       rect:
         serializedVersion: 2
-        x: 2333
-        y: 2269
-        width: 454
-        height: 678
+        x: 2048
+        y: 1024
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -229,20 +229,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 426f4d0fd07e4114fb639d01e4848da3
-      internalID: 1887862204
+      spriteID: 602681880001638458c3edc01a99172e
+      internalID: 346648822
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dizzy Duck_6
+      name: Blood_6
       rect:
         serializedVersion: 2
-        x: 285
-        y: 1213
-        width: 454
-        height: 678
+        x: 0
+        y: 0
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -250,20 +250,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 64ac60dae79d2d847bacf821dd5794eb
-      internalID: -77760634
+      spriteID: f129afbe1fa983740a18eb3403bc232f
+      internalID: -47124958
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dizzy Duck_7
+      name: Blood_7
       rect:
         serializedVersion: 2
-        x: 1309
-        y: 1245
-        width: 454
-        height: 646
+        x: 1024
+        y: 0
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -271,50 +271,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ae5b1c68867cec3469c688d86732411d
-      internalID: 480663794
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dizzy Duck_8
-      rect:
-        serializedVersion: 2
-        x: 2333
-        y: 1213
-        width: 454
-        height: 678
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d56cbc20fe8e8e24cae3fd7d2ee5c77a
-      internalID: 1690723624
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dizzy Duck_9
-      rect:
-        serializedVersion: 2
-        x: 285
-        y: 221
-        width: 454
-        height: 678
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b738e55f97752264280355ebe366a645
-      internalID: 1129341986
+      spriteID: 94b76ff7f83f27a478b419d504d18428
+      internalID: -1328756047
       vertices: []
       indices: 
       edges: []
@@ -330,16 +288,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Dizzy Duck_0: -533320747
-      Dizzy Duck_1: 529174292
-      Dizzy Duck_2: -849651718
-      Dizzy Duck_3: -315823345
-      Dizzy Duck_4: -1575008370
-      Dizzy Duck_5: 1887862204
-      Dizzy Duck_6: -77760634
-      Dizzy Duck_7: 480663794
-      Dizzy Duck_8: 1690723624
-      Dizzy Duck_9: 1129341986
+      Blood_0: -1955751529
+      Blood_1: -205422942
+      Blood_2: -987301097
+      Blood_3: 36770292
+      Blood_4: -200477739
+      Blood_5: 346648822
+      Blood_6: -47124958
+      Blood_7: -1328756047
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
