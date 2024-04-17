@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: dbb65e1565f58b4478fdc65d17c418e9
+guid: 3be0748ca75b24d4eb77ceb8cdd7af42
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Dizzy Duck_0
+      name: Shroom_0
       rect:
         serializedVersion: 2
-        x: 285
-        y: 3261
-        width: 454
-        height: 678
+        x: 255
+        y: 2271
+        width: 482
+        height: 707
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad35df3d7ba4e954491603714ab31ece
-      internalID: -533320747
+      spriteID: c2edaf81accc9a64c8610d12a900641c
+      internalID: -1660325680
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dizzy Duck_1
+      name: Shroom_1
       rect:
         serializedVersion: 2
-        x: 1309
-        y: 3261
-        width: 454
-        height: 678
+        x: 1280
+        y: 2240
+        width: 481
+        height: 705
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,20 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 32f7072aa896d8c4e9f796b9f9d5e957
-      internalID: 529174292
+      spriteID: d366c5bd11c4e8a49bf4361a98d4ec28
+      internalID: -704742636
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dizzy Duck_2
+      name: Shroom_2
       rect:
         serializedVersion: 2
-        x: 2333
-        y: 3261
-        width: 454
-        height: 678
+        x: 2303
+        y: 2303
+        width: 483
+        height: 706
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,20 +166,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b81e5fc931a69744da2fd9f8732cd1d4
-      internalID: -849651718
+      spriteID: 82a76340a29639a40bfad0e054e37c27
+      internalID: -1857334329
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dizzy Duck_3
+      name: Shroom_3
       rect:
         serializedVersion: 2
-        x: 285
-        y: 2237
-        width: 454
-        height: 646
+        x: 255
+        y: 1247
+        width: 482
+        height: 706
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,20 +187,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d060fc360ff719b44a6029ff22d578e9
-      internalID: -315823345
+      spriteID: 711e3c0c3fc99a84c8d9bb27d7f38280
+      internalID: 1618403353
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dizzy Duck_4
+      name: Shroom_4
       rect:
         serializedVersion: 2
-        x: 1309
-        y: 2237
-        width: 454
-        height: 678
+        x: 1280
+        y: 1247
+        width: 481
+        height: 706
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -208,20 +208,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 04750be5c14af184197ea94c71ec06f5
-      internalID: -1575008370
+      spriteID: 430e4825c01a78344a81519e2b627429
+      internalID: 866045838
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dizzy Duck_5
+      name: Shroom_5
       rect:
         serializedVersion: 2
-        x: 2333
-        y: 2269
-        width: 454
-        height: 678
+        x: 2303
+        y: 1215
+        width: 483
+        height: 707
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -229,20 +229,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 426f4d0fd07e4114fb639d01e4848da3
-      internalID: 1887862204
+      spriteID: a4aee83b5ec877544b223ad655145cd8
+      internalID: -627302826
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dizzy Duck_6
+      name: Shroom_6
       rect:
         serializedVersion: 2
-        x: 285
-        y: 1213
-        width: 454
-        height: 678
+        x: 255
+        y: 255
+        width: 482
+        height: 707
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -250,20 +250,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 64ac60dae79d2d847bacf821dd5794eb
-      internalID: -77760634
+      spriteID: d3d570f0b3fbf31459e21212cca450f3
+      internalID: -1333423441
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dizzy Duck_7
+      name: Shroom_7
       rect:
         serializedVersion: 2
-        x: 1309
-        y: 1245
-        width: 454
-        height: 646
+        x: 1280
+        y: 224
+        width: 481
+        height: 705
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -271,50 +271,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ae5b1c68867cec3469c688d86732411d
-      internalID: 480663794
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dizzy Duck_8
-      rect:
-        serializedVersion: 2
-        x: 2333
-        y: 1213
-        width: 454
-        height: 678
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d56cbc20fe8e8e24cae3fd7d2ee5c77a
-      internalID: 1690723624
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dizzy Duck_9
-      rect:
-        serializedVersion: 2
-        x: 285
-        y: 221
-        width: 454
-        height: 678
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b738e55f97752264280355ebe366a645
-      internalID: 1129341986
+      spriteID: 39be88799b212884a924818525dff426
+      internalID: -282221522
       vertices: []
       indices: 
       edges: []
@@ -330,16 +288,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Dizzy Duck_0: -533320747
-      Dizzy Duck_1: 529174292
-      Dizzy Duck_2: -849651718
-      Dizzy Duck_3: -315823345
-      Dizzy Duck_4: -1575008370
-      Dizzy Duck_5: 1887862204
-      Dizzy Duck_6: -77760634
-      Dizzy Duck_7: 480663794
-      Dizzy Duck_8: 1690723624
-      Dizzy Duck_9: 1129341986
+      Shroom_0: -1660325680
+      Shroom_1: -704742636
+      Shroom_2: -1857334329
+      Shroom_3: 1618403353
+      Shroom_4: 866045838
+      Shroom_5: -627302826
+      Shroom_6: -1333423441
+      Shroom_7: -282221522
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
