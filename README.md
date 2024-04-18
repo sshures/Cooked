@@ -34,7 +34,8 @@ I Love You (Backwards) - Barney.
 
 ## Future Development
 None
-
+## Video Link
+https://www.loom.com/share/88800510f5364d2e86cd502da31ef913?sid=cb4e4d81-25c6-4d25-91e5-6113612df71c
 # Created by: Cooked
 Sydney Shures (Worked on building the level, music, asset importation, player programming, scoring system, and scene progression).
 Noeh Johnson (Worked on player & enemy pixel art, made tile maps, asset importation, polishing of level, menu, and UI). 
